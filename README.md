@@ -9,6 +9,8 @@ Returns true if value is empty, else false.
 import debounce from './debounce.js';
 
 isEmpty([])
+isEmpty('')
+
 ```
 
 Reference:
