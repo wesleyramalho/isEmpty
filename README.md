@@ -3,6 +3,7 @@ A personal implementation of isEmpty in JavaScript
 
 ## Usage example
 
+Returns true if value is empty, else false.
 
 ```javascript
 import debounce from './debounce.js';
