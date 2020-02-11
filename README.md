@@ -6,7 +6,7 @@ A personal implementation of isEmpty in JavaScript
 Returns true if value is empty, else false.
 
 ```javascript
-import isEmpty from './debounce.js';
+import isEmpty from './isEmpty.js';
 
 isEmpty([])
 isEmpty('')
